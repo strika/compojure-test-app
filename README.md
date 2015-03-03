@@ -1,6 +1,9 @@
 # compojure-test-app
 
-FIXME
+Compojure application for testing CI services.
+
+[![Build
+Status](https://semaphoreapp.com/api/v1/projects/8a28df5c-9443-4896-a5c1-52f2809981e6/363054/badge.png)](https://semaphoreapp.com/strika/compojure-test-app)
 
 ## Prerequisites
 
@@ -16,4 +19,4 @@ To start a web server for the application, run:
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 Nebojša Stričević
