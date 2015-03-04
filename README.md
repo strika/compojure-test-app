@@ -17,6 +17,12 @@ To start a web server for the application, run:
 
     lein ring server
 
+## Testing
+
+To run tests, execute:
+
+    lein test
+
 ## License
 
 Copyright © 2015 Nebojša Stričević
